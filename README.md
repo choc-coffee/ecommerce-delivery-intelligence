@@ -8,6 +8,9 @@ The project looks at three main questions:
 - How does delivery performance relate to customer reviews?
 - Can higher-risk orders be identified before delivery?
 
+**[View the live dashboard](https://ecommerce-delivery-intelligence.streamlit.app/
+)**
+
 ![Dashboard overview](images/dashboard-overview.png)
 
 ## Project Overview
