@@ -192,5 +192,3 @@ data/*.csv
 # Mac files
 .DS_Store
 
-# Generated processed data
-data/processed/*.csv
