@@ -58,10 +58,10 @@ The model was more useful for ranking risk than making definitive yes/no predict
 
 The Streamlit dashboard contains four sections:
 
-- **Overview** — headline order, delivery and customer metrics
-- **Delivery Analysis** — trends across time, geography, freight and product categories
-- **Prediction** — interactive late-delivery risk scoring
-- **Recommendations** — business takeaways from the analysis
+- **Overview**: headline order, delivery and customer metrics
+- **Delivery Analysis**: trends across time, geography, freight and product categories
+- **Prediction**: interactive late-delivery risk scoring
+- **Recommendations**: business takeaways from the analysis
 
 ## Tools
 
